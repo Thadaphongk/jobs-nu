@@ -3,15 +3,8 @@
  
  ## Run server & client
   _Run Server_
-1. In server : Port 8080
-    ```sh
-     nodemon src/app.js
-    ```
-  _Run client_
-
-2. In client : Port 8080
-    ```sh
-     npm run start
+1. In server & client
+   npm run start
     ```    
 ## Install npm server & client // Blackend & Frontend
   ```sh
